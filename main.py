@@ -2,7 +2,7 @@
 
 print("Hello World!")
 
-student = ['YoMin', 'Cindy', 'John']
+student = ['YoMin', 'Cindy', 'John', 'Kent', 'Charles']
 
 for s in student:
     print(f"Hi {s}")
